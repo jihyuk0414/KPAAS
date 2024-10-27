@@ -1,7 +1,7 @@
 # PTFD
 ![로고](https://github.com/user-attachments/assets/488e628b-1f33-41dd-86f9-dae5c359f75f)
 
-> 장애인 PT 예약,문의 서비스
+> 장애인 PT 예약,문의 서비스 (NCP 배포 이전~ 극초까지의 부를 기록해 두었습니다)
 
 > 배포 URL [[PTFD](http://default-front-07385-26867304-b1e33c76cd35.kr.lb.naverncp.com:30/)]
 
