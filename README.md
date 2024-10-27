@@ -35,13 +35,3 @@
 ## 서비스 흐름도
 ![1](https://github.com/user-attachments/assets/25545ad8-bbb2-47cf-82a7-74a8c66a1625)
 
-## 주요기능
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Demo
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
